@@ -6,3 +6,4 @@ Fruit
 Nuts
 Pizza
 Cheezits
+Ice Cream
