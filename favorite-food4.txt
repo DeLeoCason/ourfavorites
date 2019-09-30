@@ -8,5 +8,4 @@ Pizza
 Cheezits
 Ice Cream
 Reeses
-Chicken
 
