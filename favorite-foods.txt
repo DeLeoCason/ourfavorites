@@ -6,4 +6,3 @@ Pizza
 Burgers
 Ice Cream
 chicken
-Apples
